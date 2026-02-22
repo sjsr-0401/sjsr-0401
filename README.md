@@ -22,6 +22,7 @@ Hardware (PCB / Arduino)    ████████░░░░░░░░░�
 
 ## 📌 Featured Projects
 
+- [**WaferVision**](https://github.com/sjsr-0401/wafer-vision) — Wafer defect detection with OpenCV + ONNX Runtime (C#/.NET 8/WPF)
 - [**BTC Trading Bot**](https://github.com/sjsr-0401/btc-trading-bot) — Binance Futures automated trading (C#/.NET 8/WPF)
 - [**CatTalk2D**](https://github.com/sjsr-0401/CatTalk2D) — AI virtual cat with local LLM personality (Unity/Ollama)
 
