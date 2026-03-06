@@ -1,6 +1,10 @@
-<a href="https://github.com/sjsr-0401">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=220&section=header&text=Seongjine%20Kim&fontColor=a9b1d6&fontSize=48&fontAlignY=35&desc=Software%20Engineer&descColor=7aa2f7&descSize=20&descAlignY=55&animation=fadeIn" width="100%"/>
-</a>
+<div align="center">
+
+# Seongjine Kim 👋
+
+**Software Engineer**
+
+</div>
 
 <p align="center">
   <a href="https://github.com/sjsr-0401">
@@ -58,4 +62,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjsr-0401&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" width="90%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:414868&height=100&section=footer" width="100%"/>
+---
+
+<p align="center"><i>"Building things that work."</i></p>
