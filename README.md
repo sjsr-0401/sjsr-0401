@@ -13,7 +13,10 @@
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
-[![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com)
+
+[![Semiconductor](https://img.shields.io/badge/🔬_Semiconductor-0A1931?style=for-the-badge)]()
+[![Battery](https://img.shields.io/badge/🔋_Secondary_Battery-2E7D32?style=for-the-badge)]()
+[![Laser](https://img.shields.io/badge/⚡_Laser_Equipment-B71C1C?style=for-the-badge)]()
 
 </div>
 
@@ -28,11 +31,12 @@ Industrial equipment control software engineer with hands-on experience in
 PMAC motion control, laser processing systems, and machine vision inspection.
 
 ```
-🔧 Equipment Control  — PMAC motion, galvano scanner, interlock systems
-👁️ Machine Vision     — Wafer defect detection, OpenCV, ONNX inference
-🖥️ Desktop Apps       — C#/WPF/MVVM, production-grade industrial tools
-🤖 AI/ML              — YOLOv5/v8, local LLMs, real-time object detection
-🏭 Semiconductor      — CVD chamber process, wafer edge R&D
+🔬 Semiconductor   — CVD/ALD 공정 장비, 웨이퍼 결함 검출 R&D
+🔋 Battery         — 이차전지 제조 라인 레이저 장비 제어
+⚡ Laser           — PMAC 모션 제어, 갈바노 스캐너 캘리브레이션, MOTF
+👁️ Machine Vision  — OpenCV, ONNX, MIL→OpenCV 마이그레이션
+🖥️ Desktop Apps    — C#/WPF/MVVM, 산업용 장비 제어 SW
+🤖 AI/ML           — YOLOv5/v8, 로컬 LLM(Ollama/LoRA), 실시간 객체 검출
 ```
 
 ---
@@ -149,11 +153,11 @@ PMAC motion control, laser processing systems, and machine vision inspection.
 ## 🎯 Current Focus
 
 ```
-🔭 Working on    Real-time object detection dashboard (SmartDetector)
-🌱 Learning      C++ / MFC for semiconductor equipment SW
+🔭 Working on    SmartDetector — 실시간 객체 검출 + SORT 트래킹 대시보드
+🌱 Learning      C++ / MFC — 반도체 장비 SW 역량 강화
 🤝 Contributing  Ultralytics YOLO (open source)
-📝 Writing       Technical blog — qzqmeansblog.tistory.com
-🎮 Fun project   CatTalk2D — AI cat with personality
+📝 Writing       기술 블로그 — qzqmeansblog.tistory.com
+🏭 Domain        반도체(CVD) · 이차전지 · 레이저 가공 장비
 ```
 
 ---
