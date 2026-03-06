@@ -15,7 +15,6 @@
 <p align="center">
   <a href="https://qzqmeansblog.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>
   <a href="https://github.com/sjsr-0401/til-journal"><img src="https://img.shields.io/badge/TIL-2962FF?style=flat-square&logo=bookstack&logoColor=white"/></a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjsr-0401&count_bg=%237AA2F7&title_bg=%231a1b27&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true"/></a>
 </p>
 
 ---
