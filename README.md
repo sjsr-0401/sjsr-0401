@@ -39,6 +39,7 @@
 ### Projects
 
 [![](https://img.shields.io/badge/-🏭%20YOLO26%20Industrial%20Vision-000?style=flat-square)](https://github.com/sjsr-0401/yolo26-industrial-vision)
+[![](https://img.shields.io/badge/-🔧%20IndustrialCommHub-000?style=flat-square)](https://github.com/sjsr-0401/industrial-comm-hub)
 [![](https://img.shields.io/badge/-🔬%20WaferVision-000?style=flat-square)](https://github.com/sjsr-0401/wafer-vision)
 [![](https://img.shields.io/badge/-🎯%20SmartDetector-000?style=flat-square)](https://github.com/sjsr-0401/smart-detector)
 [![](https://img.shields.io/badge/-📈%20BTC%20Trading%20Bot-000?style=flat-square)](https://github.com/sjsr-0401/btc-trading-bot)
@@ -47,6 +48,7 @@
 | | |
 |---|---|
 | **YOLO26 Industrial Vision** | End-to-end defect detection pipeline — YOLO26/ONNX/C# WPF |
+| **IndustrialCommHub** | Motion/comm protocol reference — Modbus/Serial/EtherCAT/PID/SECS-GEM |
 | **WaferVision** | Wafer defect detection — C#/WPF/OpenCvSharp/ONNX |
 | **SmartDetector** | Real-time object tracking dashboard — YOLOv8/SORT |
 | **BTC Trading Bot** | Binance Futures automated trading — WebSocket/MVVM |
